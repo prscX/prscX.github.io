@@ -13,8 +13,7 @@
 
 Please feel free to raise your queries here, this way anyone can read the answer!
 
-Anything means *anything*. Code. Work. Life. Whatever.
-However, I will think twice before answering. :joy:
+Anything means *anything*. Code. Work. Life. Whatever. :joy:
 
 ### Guidelines
 
@@ -22,5 +21,4 @@ However, I will think twice before answering. :joy:
  - :memo: Use a succinct title and description.
  - :bug: Bugs & feature requests should be opened on the relevant issue tracker.
  - :signal_strength: Support questions are better asked on Stack Overflow.
- - :blush: Be nice, civil and polite.
  - :heart_eyes: If you include at least one emoji in your question, the feedback will probably come faster.
