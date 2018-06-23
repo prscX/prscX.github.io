@@ -11,7 +11,7 @@
 
 </h2>
 
-I get a lot of questions by email. This way anyone can read the answer!
+Please feel free to raise your queries here, this way anyone can read the answer!
 
 Anything means *anything*. Code. Work. Life. Whatever.
 However, I will think twice before answering. :joy:
@@ -23,5 +23,4 @@ However, I will think twice before answering. :joy:
  - :bug: Bugs & feature requests should be opened on the relevant issue tracker.
  - :signal_strength: Support questions are better asked on Stack Overflow.
  - :blush: Be nice, civil and polite.
- - :heart_eyes: If you include at least one emoji in your question, the feedback will
-   probably come faster.
+ - :heart_eyes: If you include at least one emoji in your question, the feedback will probably come faster.
