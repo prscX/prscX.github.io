@@ -1,7 +1,7 @@
 <h1 align="center">
  :dizzy: Ask me anything! :sparkles:<br><br>
 
-    Pranav Raj Singh Chauhan: prscX
+    Pranav Raj Singh Chauhan: <a href="prscx.github.io">prscX</a>
 </h1>
 
 
