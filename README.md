@@ -7,7 +7,8 @@
 
 <h2 align="center">
 
- <a href="https://github.com/prscX/prscX.github.io/issues/new>:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/prscX/prscX.github.io/issues/">:book: Read questions</a>
+ <a href="https://github.com/prscX/prscX.github.io/issues/new">:speech_balloonš: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/prscX/prscX.github.io/issues/">:book: Read questions</a>
+
 </h2>
 
 I get a lot of questions by email. This way anyone can read the answer!
