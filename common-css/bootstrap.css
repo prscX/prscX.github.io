@@ -4358,13 +4358,13 @@ tbody.collapse.show {
 
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-toggler {
-  color: white;
+  color: #dcdbd7;
 }
 
 .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-toggler:focus,
 .navbar-inverse .navbar-toggler:hover {
-  color: white;
+  color: #dcdbd7;
 }
 
 .navbar-inverse .navbar-nav .nav-link {
@@ -4383,7 +4383,7 @@ tbody.collapse.show {
 .navbar-inverse .navbar-nav .active > .nav-link,
 .navbar-inverse .navbar-nav .nav-link.open,
 .navbar-inverse .navbar-nav .nav-link.active {
-  color: white;
+  color: #dcdbd7;
 }
 
 .navbar-inverse .navbar-toggler {
@@ -9155,7 +9155,7 @@ a.bg-inverse:focus, a.bg-inverse:hover {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #dcdbd7 !important;
 }
 
 .text-muted {

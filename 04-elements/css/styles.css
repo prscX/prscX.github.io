@@ -60,7 +60,7 @@ a, button{ display: inline-block; text-decoration: none; color: inherit; line-he
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
-a b.light-color:hover{ text-decoration: none; color: #FFA804; }
+a b.light-color:hover{ text-decoration: none; color: #bf7c01; }
 
 b{ font-weight: 600; }
 
@@ -89,7 +89,7 @@ b.max-bold{ font-weight: 700; }
 .section .heading{ margin-bottom: 60px; }
 
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
-	margin-bottom: 20px; display: block; background: #FFA804; }
+	margin-bottom: 20px; display: block; background: #bf7c01; }
 	
 .margin-t-10{ margin-top: 10px; }
 
@@ -99,7 +99,7 @@ b.max-bold{ font-weight: 700; }
 .margin-tb-20{ margin-top: 20px; margin-bottom: 20px; }
 .margin-tb-30{ margin-top: 30px; margin-bottom: 30px; }
 
-.font-yellow{ color: #FFA600; }
+.font-yellow{ color: #bf7c01; }
 
 .font-semi-white{ color: #ddd; }
 
@@ -168,18 +168,18 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .btn-bg-yellow{ border: 1px solid #FFAD01; background: #FFAD01; color: #fff; }
 
-.btn-bg-purple{ border: 1px solid #28023D; background: #28023D; color: #fff; }
+.btn-bg-purple{ border: 1px solid #1e012f; background: #1e012f; color: #fff; }
 
-.btn-border-purple{ border: 1px solid #28023D; color: #222; }
+.btn-border-purple{ border: 1px solid #1e012f; color: #222; }
 
-.btn-color-yellow{ border: 1px solid #28023D; background: #28023D; color: #FFAD01; }
+.btn-color-yellow{ border: 1px solid #1e012f; background: #1e012f; color: #FFAD01; }
 
 
 .btn-bg-yellow:hover{ background: none; color: #111; }
 
 .btn-bg-purple:hover{ background: none; color: #111; }
 
-.btn-border-purple:hover{ background: #28023D; color: #fff; }
+.btn-border-purple:hover{ background: #1e012f; color: #fff; }
 
 .btn-color-yellow:hover{ background: none; color: #111; }
 
@@ -212,7 +212,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .panel-area .panel-title .icon{ float: right; font-size: .7em; margin-top: 5px; }
 
-.panel-area .panel-title.active{ background: #28023D; }
+.panel-area .panel-title.active{ background: #1e012f; }
 
 .panel-area .panel-title.active + .panel-desc{ opacity: 1; padding: 20px 20px 0; max-height: 300px; 
 	-webkit-transform: scaleY(1); transform: scaleY(1); }
@@ -268,5 +268,5 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 10. FOOTER
 --------------------------------- */
 
-.copyright{ text-align: center; padding: 30px 0; background: #28023D; }
+.copyright{ text-align: center; padding: 30px 0; background: #1e012f; }
 
