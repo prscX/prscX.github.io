@@ -76,7 +76,7 @@ export default function Experience() {
         <div>
           {experience.map((item, i) => (
             <TimelineItem
-              key={item.role + item.company}
+              key={`${item.role}-${item.period}`}
               item={item}
               index={i}
               isLast={i === experience.length - 1}

@@ -6,7 +6,6 @@ export const profile = {
   avatar: "https://avatars3.githubusercontent.com/u/28862892?s=460&v=4",
   github: "https://github.com/prscX",
   linkedin: "https://www.linkedin.com/in/ACoAABcZVNMBjSopmTyCJ-6CuD26fwSxjgJa0TQ",
-  email: "ACoAABcZVNMBjSopmTyCJ-6CuD26fwSxjgJa0TQ",
 };
 
 export const about = {
