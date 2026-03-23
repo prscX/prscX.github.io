@@ -1,17 +1,15 @@
-
 # OSX
-#
 .DS_Store
 
-# node.js
-#
+# Dependencies
 node_modules/
 npm-debug.log
 yarn-error.log
-  
+
+# Build output
+dist/
 
 # Xcode
-#
 build/
 *.pbxuser
 !default.pbxuser
@@ -29,11 +27,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
-      
 
 # Android/IntelliJ
-#
-build/
 .idea
 .gradle
 local.properties
@@ -43,9 +38,10 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
-      
+
+# Editor
 .history/*
+
+# iOS
 ios/Pods/*
 ios/Podfile.lock
-
-.history/*
